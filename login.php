@@ -26,6 +26,8 @@ $flash = Auth::pullFlash();
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="only light">
+<meta name="color-scheme" content="only light">
 <meta name="color-scheme" content="light">
 <title>Log in · <?= e(APP_NAME) ?></title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
